@@ -1,0 +1,3 @@
+<input type="text" id="teamNameText" name="teamNameText" class="formField" value="" placeholder="Your Team Name here" required />
+<button type="submit" class="btn btn-success" id="teamCreationBtn" name="teamCreationBtn" value=""><?php echo CREATETEAMNAMEBTN; ?></button>
+<button type="button" class="btn btn-danger undoBtn" id="teamNameUndoBtn" name="teamNameUndoBtn" value=""><?php echo UNDOBTN; ?></button>
